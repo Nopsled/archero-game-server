@@ -1,6 +1,4 @@
-Discord (community): https://discord.gg/k62TF4NFjb
 
-```markdown
 # Archero Private Server
 
 A **minimal reverse‑engineered API stub** for the mobile game **Archero**.  
