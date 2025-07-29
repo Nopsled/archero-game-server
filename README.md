@@ -1,5 +1,4 @@
-
-# Archero Private Server
+# Archero Private Server
 
 A **minimal reverse‑engineered API stub** for the mobile game **Archero**.  
 It listens on **`0.0.0.0:443`** (TLS) and fakes enough endpoints to let a local or emulated client boot, sync and ping without touching the real Habby back–end.
